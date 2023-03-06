@@ -6,7 +6,7 @@
 4. [Data](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#data)
 5. [Processing and Cleaning](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#processing-and-cleaning)
 6. [Analysis](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#analysis)
-7. [Conclusion](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#conclusion)
+7. [Summary](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#conclusion)
 8. [Recommendations](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#recommendations)
 ## Introduction
 Cyclistic is a bike-share company that features more than 5,800 bicycles and 600 docking stations in Chicago. The company has two types of users: those with individual passes called "casual" riders and those with annual subscriptions called "member" riders.
@@ -235,7 +235,7 @@ Importing the result excel workbook into Power bi for visualizations. The result
 #### Insights
 - Electric bike is most popular among casual riders while classic bike is most popular among members.
 - Docked bike is the least popular bike, it is not used by members. This may be because it has to be docked in a station which is not practical when commuting to a work or another destination.
-## Conclusion
+## Summary
 - Casual riders use the service for leisure purposes and ride more during weekends while members use it to to commute to work.
 - Both members and casual riders use the service more in summer months. Casual riders decrease drastically in winters.
 - Casual riders ride longer than members on average.
