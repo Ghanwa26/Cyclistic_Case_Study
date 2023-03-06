@@ -6,7 +6,7 @@
 4. [Data](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#data)
 5. [Processing and Cleaning](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#processing-and-cleaning)
 6. [Analysis](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#analysis)
-7. [Summary](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#conclusion)
+7. [Summary](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#summary)
 8. [Recommendations](https://github.com/Ghanwa26/Cyclistic_Case_Study/edit/main/README.md#recommendations)
 ## Introduction
 Cyclistic is a bike-share company that features more than 5,800 bicycles and 600 docking stations in Chicago. The company has two types of users: those with individual passes called "casual" riders and those with annual subscriptions called "member" riders.
